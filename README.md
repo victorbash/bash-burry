@@ -1,2 +1,2 @@
 # bash-burry
-Just s new one
+Just a new one
